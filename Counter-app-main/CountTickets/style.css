@@ -1,0 +1,35 @@
+
+
+body{
+    background-image: url("./train.jpg");
+    
+
+   
+}
+h2{
+    color: blue;
+    background-color: beige;
+}
+h1{
+    color: red;
+    font-size: 80px;
+    text-align: center;
+}
+
+.po{
+    text-align: center;
+
+}
+
+
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    background-color: brown;
+    width: 200px;
+}
